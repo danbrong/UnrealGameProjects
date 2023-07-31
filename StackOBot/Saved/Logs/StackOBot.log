@@ -569,3 +569,305 @@ Recommended: 30.0.101.1340
 [2023.07.31-22.17.19:550][  0]NetworkingProfiler: OnSessionChanged
 [2023.07.31-22.17.19:550][  0]MemoryProfiler: Initialize
 [2023.07.31-22.17.19:550][  0]MemoryProfiler: OnSessionChanged
+[2023.07.31-22.17.20:288][  0]SourceControl: Source control is disabled
+[2023.07.31-22.17.20:322][  0]SourceControl: Source control is disabled
+[2023.07.31-22.17.20:331][  0]LogUProjectInfo: Found projects:
+[2023.07.31-22.17.20:363][  0]SourceControl: Source control is disabled
+[2023.07.31-22.17.20:799][  0]LogOpenImageDenoise: OIDN starting up
+[2023.07.31-22.17.20:886][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.31-22.17.20:886][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.31-22.17.21:046][  0]LogCollectionManager: Loaded 0 collections in 0.002517 seconds
+[2023.07.31-22.17.21:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bchan/Documents/GitDirectories/UnrealGameProjects/StackOBot/Saved/Collections/' took 0.00s
+[2023.07.31-22.17.21:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bchan/Documents/GitDirectories/UnrealGameProjects/StackOBot/Content/Developers/bchan/Collections/' took 0.00s
+[2023.07.31-22.17.21:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bchan/Documents/GitDirectories/UnrealGameProjects/StackOBot/Content/Collections/' took 0.00s
+[2023.07.31-22.17.21:987][  0]LogEngine: Initializing Engine...
+[2023.07.31-22.17.22:018][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.07.31-22.17.23:064][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.31-22.17.23:069][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.31-22.17.23:106][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.17.23:192][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.07.31-22.17.23:317][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.31-22.17.23:369][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.31-22.17.23:383][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.31-22.17.23:384][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.31-22.17.23:385][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.31-22.17.23:385][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.31-22.17.23:385][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.31-22.17.23:386][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.31-22.17.23:386][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.31-22.17.23:386][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.31-22.17.23:386][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.31-22.17.23:386][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.31-22.17.23:386][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.31-22.17.23:387][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.31-22.17.23:387][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.31-22.17.23:388][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.31-22.17.23:410][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.31-22.17.23:968][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.31-22.17.23:969][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.31-22.17.24:022][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.31-22.17.24:023][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.31-22.17.24:028][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.07.31-22.17.24:029][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.31-22.17.24:032][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.31-22.17.24:032][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.07.31-22.17.24:032][  0]LogInit: FAudioDevice initialized.
+[2023.07.31-22.17.24:032][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.31-22.17.24:033][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.31-22.17.24:033][  0]LogInit: Texture streaming: Enabled
+[2023.07.31-22.17.24:107][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.07.31-22.17.24:120][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.07.31-22.17.24:169][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.07.31-22.17.24:187][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.07.31-22.17.24:187][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.07.31-22.17.26:822][  0]LogLiveCoding: Display: First instance in process group "UE_StackOBot_0xb7b9cea7", spawning console
+[2023.07.31-22.17.26:822][  0]LogLiveCoding: Display: Waiting for server
+[2023.07.31-22.17.26:822][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.07.31-22.17.26:848][  0]LogInit: Transaction tracking system initialized
+[2023.07.31-22.17.26:982][  0]BlueprintLog: New page: Editor Load
+[2023.07.31-22.17.27:340][  0]LocalizationService: Localization service is disabled
+[2023.07.31-22.17.28:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bchan/Documents/GitDirectories/UnrealGameProjects/StackOBot/Content/' took 0.33s
+[2023.07.31-22.17.28:840][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.07.31-22.17.29:107][  0]LogCore: Display: GameplayInsights module auto-connecting to local trace server...
+[2023.07.31-22.17.29:113][  0]LogCore: Display: Trace started (connected to trace server 127.0.0.1).
+[2023.07.31-22.17.29:129][  0]MemoryProfiler: OnSessionChanged
+[2023.07.31-22.17.29:130][  0]NetworkingProfiler: OnSessionChanged
+[2023.07.31-22.17.29:130][  0]LoadingProfiler: OnSessionChanged
+[2023.07.31-22.17.29:130][  0]TimingProfiler: OnSessionChanged
+[2023.07.31-22.17.29:130][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.31-22.17.29:141][  0]SourceControl: Source control is disabled
+[2023.07.31-22.17.29:142][  0]LogUnrealEdMisc: Loading editor; pre map load, took 40.550
+[2023.07.31-22.17.29:145][  0]Cmd: MAP LOAD FILE="../../../../../Users/bchan/Documents/GitDirectories/UnrealGameProjects/StackOBot/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.31-22.17.29:153][  0]LightingResults: New page: Lighting Build
+[2023.07.31-22.17.29:170][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.17.29:173][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.17.29:175][  0]MapCheck: New page: Map Check
+[2023.07.31-22.17.29:175][  0]LightingResults: New page: Lighting Build
+[2023.07.31-22.17.29:198][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.31-22.17.29:216][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.31-22.17.29:305][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.07.31-22.17.29:305][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.31-22.17.29:305][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.17.29:306][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.07.31-22.17.29:326][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.31-22.17.29:340][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.31-22.17.29:342][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.31-22.17.29:342][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.601ms to complete.
+[2023.07.31-22.17.29:343][  0]LogFileHelpers: Loading map 'MainMenu' took 0.199
+[2023.07.31-22.17.29:394][  0]LogUnrealEdMisc: Total Editor Startup Time, took 40.802
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.31-22.17.29:395][  0]LogShaderCompilers: Display: ================================================
+[2023.07.31-22.17.29:679][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.29:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.29:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.29:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.29:768][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:768][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:781][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:781][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:788][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:788][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:797][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:797][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:809][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:809][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:817][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:817][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:823][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:823][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:829][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:829][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:835][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:835][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:841][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.07.31-22.17.29:841][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.31-22.17.29:841][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files (x86)/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.07.31-22.17.30:193][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.07.31-22.17.30:455][  0]LogSlate: Took 0.007354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.31-22.17.30:464][  0]LogSlate: Took 0.005923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.07.31-22.17.30:474][  0]LogSlate: Took 0.005056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.31-22.17.30:481][  0]LogSlate: Took 0.005332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.31-22.17.30:487][  0]LogSlate: Took 0.005250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.31-22.17.30:515][  0]LogViewport: Scene viewport resized to 1524x606, mode Windowed.
+[2023.07.31-22.17.33:029][  0]LogStall: Startup...
+[2023.07.31-22.17.33:030][  0]LogStall: Startup complete.
+[2023.07.31-22.17.33:047][  0]LogLoad: (Engine Initialization) Total time: 44.46 seconds
+[2023.07.31-22.17.33:047][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.31-22.17.33:206][  0]LogContentStreaming: Texture pool size now 400 MB
+[2023.07.31-22.17.33:380][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/bchan/Documents/GitDirectories/UnrealGameProjects/StackOBot/Content/' took 0.31s
+[2023.07.31-22.17.33:398][  1]LogAssetRegistry: Asset discovery search completed in 22.4910 seconds
+[2023.07.31-22.17.33:431][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.07.31-22.17.33:501][  2]LogSlate: Took 0.007127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.31-22.17.45:461][949]LogSlate: Window 'StackOBot - Unreal Editor' being destroyed
+[2023.07.31-22.17.45:462][949]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.31-22.17.45:579][949]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.31-22.17.45:600][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2023.07.31-22.17.45:600][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2023.07.31-22.17.45:600][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2023.07.31-22.17.45:601][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2023.07.31-22.17.45:602][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2023.07.31-22.17.45:602][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2023.07.31-22.17.45:602][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2023.07.31-22.17.45:602][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2023.07.31-22.17.45:602][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2023.07.31-22.17.45:602][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2023.07.31-22.17.45:602][949]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2023.07.31-22.17.45:612][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.45:617][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.45:623][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.45:629][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.45:641][949]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2023.07.31-22.17.45:718][949]LogViewport: Scene viewport resized to 2283x1248, mode Windowed.
+[2023.07.31-22.17.51:986][501]LogSlate: Window 'StackOBot - Unreal Editor' being destroyed
+[2023.07.31-22.17.51:987][501]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.31-22.17.52:099][501]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2023.07.31-22.17.52:117][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2023.07.31-22.17.52:118][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2023.07.31-22.17.52:118][501]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2023.07.31-22.17.52:118][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2023.07.31-22.17.52:118][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2023.07.31-22.17.52:118][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2023.07.31-22.17.52:119][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2023.07.31-22.17.52:119][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2023.07.31-22.17.52:119][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2023.07.31-22.17.52:119][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2023.07.31-22.17.52:119][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2023.07.31-22.17.52:119][501]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2023.07.31-22.17.52:150][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.52:156][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.52:160][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.52:165][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.17.52:174][501]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.07.31-22.17.52:177][501]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2023.07.31-22.17.52:259][501]LogViewport: Scene viewport resized to 1524x606, mode Windowed.
+[2023.07.31-22.18.20:652][325]LogEditorViewport: Clicking Background
+[2023.07.31-22.18.22:157][452]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.31-22.18.22:167][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.31-22.18.22:167][452]PIE: New page: PIE session: MainMenu (Jul 31, 2023, 2:18:22 AM)
+[2023.07.31-22.18.22:172][452]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.31-22.18.22:173][452]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.31-22.18.22:464][452]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.07.31-22.18.22:466][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002544s)
+[2023.07.31-22.18.22:466][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003023s)
+[2023.07.31-22.18.22:466][452]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.31-22.18.22:466][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.18.22:467][452]LogAIModule: Creating AISystem for world MainMenu
+[2023.07.31-22.18.22:467][452]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2023.07.31-22.18.22:500][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.31-22.18.22:501][452]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.31-22.18.22:501][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.31-22.18.22:501][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.31-22.18.22:501][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.31-22.18.22:501][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.31-22.18.22:501][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.31-22.18.22:501][452]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.31-22.18.22:501][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.31-22.18.22:501][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.31-22.18.22:502][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.31-22.18.22:502][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.31-22.18.22:502][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.31-22.18.22:504][452]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.31-22.18.22:676][452]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.31-22.18.22:677][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.31-22.18.22:677][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.31-22.18.22:677][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.31-22.18.22:683][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.31-22.18.22:683][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.31-22.18.22:685][452]LogInit: FAudioDevice initialized.
+[2023.07.31-22.18.22:685][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.31-22.18.22:685][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.31-22.18.22:685][452]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2023.07.31-22.18.22:703][452]LogLoad: Game class is 'GameMode'
+[2023.07.31-22.18.22:703][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.07.31-12.18.22
+[2023.07.31-22.18.22:703][452]LogWorld: Bringing up level for play took: 0.000769
+[2023.07.31-22.18.22:706][452]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.07.31-22.18.22:726][452]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.31-22.18.22:726][452]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.31-22.18.22:726][452]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.31-22.18.22:734][452]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.31-22.18.22:735][452]PIE: Server logged in
+[2023.07.31-22.18.22:737][452]PIE: Play in editor total start time 0.571 seconds.
+[2023.07.31-22.18.25:412][529]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.07.31-22.18.25:412][529]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.07.31-22.18.25:413][529]LogNet: Browse: /Game/Maps/PlaySpace
+[2023.07.31-22.18.25:413][529]LogLoad: LoadMap: /Game/Maps/PlaySpace
+[2023.07.31-22.18.25:413][529]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.07.31-22.18.25:417][529]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.18.25:417][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.18.25:427][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.31-22.18.25:433][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.31-22.18.25:556][529]LogLinker: Warning: [AssetLog] C:\Users\bchan\Documents\GitDirectories\UnrealGameProjects\StackOBot\Content\ThirdPerson\Characters\Mannequins\Rigs\CR_Mannequin_BasicFootIK.uasset: Failed to load '/Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK': Can't find file.
+[2023.07.31-22.18.25:557][529]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK'
+[2023.07.31-22.18.26:940][529]LogAudio: Display: Audio Device (ID: 2) registered with world 'PlaySpace'.
+[2023.07.31-22.18.26:940][529]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.31-22.18.26:940][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-22.18.26:941][529]LogAIModule: Creating AISystem for world PlaySpace
+[2023.07.31-22.18.26:942][529]LogPlayLevel: PIE: World Init took: (0.001908s)
+[2023.07.31-22.18.26:942][529]LogLoad: Game class is 'BlockJumperMode_C'
+[2023.07.31-22.18.27:071][529]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PlaySpace.PlaySpace up for play (max tick rate 0) at 2023.07.31-12.18.27
+[2023.07.31-22.18.27:076][529]LogWorld: Bringing up level for play took: 0.128535
+[2023.07.31-22.18.27:123][529]LogLoad: Took 1.708489 seconds to LoadMap(/Game/Maps/PlaySpace)
+[2023.07.31-22.18.27:138][529]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere being ready before playing
+[2023.07.31-22.18.27:156][529]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EngineSky/SM_SkySphere) ...
+[2023.07.31-22.18.27:351][530]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.31-22.18.35:120][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.31-22.18.35:121][843]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PlaySpace
+[2023.07.31-22.18.35:124][843]LogWorld: UWorld::CleanupWorld for PlaySpace, bSessionEnded=true, bCleanupResources=true
+[2023.07.31-22.18.35:126][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.18.35:142][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.31-22.18.35:146][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.31-22.18.37:246][843]LogThreadingWindows: Error: Runnable thread Background Worker #8 crashed.
+[2023.07.31-22.18.37:246][843]LogWindows: Error: === Critical error: ===
+[2023.07.31-22.18.37:246][843]LogWindows: Error: 
+[2023.07.31-22.18.37:246][843]LogWindows: Error: Fatal error!
+[2023.07.31-22.18.37:246][843]LogWindows: Error: 
+[2023.07.31-22.18.37:246][843]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000001
+[2023.07.31-22.18.37:246][843]LogWindows: Error: 
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a79a26db UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a79cdb26 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a796c4e1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a79509ed UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a7957f91 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a044e398 UnrealEditor-Core.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a0432a78 UnrealEditor-Core.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a046ea02 UnrealEditor-Core.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a043f4d0 UnrealEditor-Core.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a05a3d45 UnrealEditor-Core.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a0b37a2b UnrealEditor-Core.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff8a0b30a90 UnrealEditor-Core.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff913fa26ad KERNEL32.DLL!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: [Callstack] 0x00007ff91538aa68 ntdll.dll!UnknownFunction []
+[2023.07.31-22.18.37:246][843]LogWindows: Error: 
+[2023.07.31-22.18.37:246][843]LogWindows: Error: Crash in runnable thread Background Worker #8
+[2023.07.31-22.18.37:260][843]LogExit: Executing StaticShutdownAfterError
+[2023.07.31-22.18.37:260][843]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.07.31-22.18.37:260][843]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.07.31-22.18.37:260][843]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.07.31-22.18.37:261][843]Log file closed, 07/31/23 12:18:37
